@@ -1,0 +1,3 @@
+def pagar():
+
+def receber():
