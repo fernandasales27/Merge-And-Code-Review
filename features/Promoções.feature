@@ -9,5 +9,6 @@ def teste():
 
 def novoCenario():
 
-def Desconto():
+def Desconto(dolar):
+
 
