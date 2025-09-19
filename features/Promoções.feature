@@ -2,4 +2,5 @@ def pagar():
 
 def receber():
 
-def depositar():
+def depositar(money):
+	
