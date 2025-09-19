@@ -11,4 +11,6 @@ def novoCenario():
 
 def Desconto(dolar):
 
+"comitando dev 1"
+
 
